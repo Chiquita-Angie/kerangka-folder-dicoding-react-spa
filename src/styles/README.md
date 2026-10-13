@@ -1,0 +1,1 @@
+Simpan stylesheet di folder ini. Pertahankan CSS bawaan starter project Dicoding jika sudah tersedia.
